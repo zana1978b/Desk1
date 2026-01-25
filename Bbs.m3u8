@@ -7,7 +7,7 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:0,chunklist_w1387086520
 https://live.host247.net/gk/gksat/chunklist_w1387086520.m3u8
-#EXTINF:0,index
+#EXTINF:0,rudaw
 https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:0,HawezHD
 https://media2.streambrothers.com:1936/8218/8218/HawezHD.m3u8
